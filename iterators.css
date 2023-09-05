@@ -28,4 +28,6 @@ p {
    font-weight: bold;
    text-align: center;
    padding: .65rem;
+   border: 8px solid #FFF;
+   border-style: double;
 }
